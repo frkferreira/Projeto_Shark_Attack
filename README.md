@@ -1,2 +1,41 @@
-# Projeto_Shark_Attack
- 
+## Projeto_Shark_Attack
+
+Tendo como base o internacional dataset Shark Attack, esse projeto teve como objetivo responder, através da limpeza de dados, perguntas gerais como:
+Através dos anos:
+- Qual o ano ocorreu mais ataques;
+- Qual país registrous mais ocorrências de ataques; e
+- Qual o gênero sofreu mais ataques.
+
+E dessa forma, mergulhar em questões como:
+No ano que mais ocorreram ataques:
+- qual país teve registrou mais ocorrências de ataques;
+- qual a espécie que mais atacou; e
+- qual a porcentagem de homens e mulheres atacados.
+
+
+## Início e Pré-requisitos
+
+Importando e visualizando o dataframe.
+Para essa análise, foi necessário a instalação das seguintes bibliotecas:
+
+- import pandas as pd
+- import numpy as np
+- import re
+- import os
+
+## Tarefas executadas no projeto:
+
+1) Visualização dos dados
+2) Limpeza dos dados
+3) Análise dos dados
+
+## Autor:
+- Fernando Ferreira
+
+## Agradecimento:
+Para a conclusão desse projeto, foi indispensável a ajuda:
+- dos colegas: Reinaldo Black, Fabrício Maciel; e
+- das professoras Bets e Raiana.
+
+
+
