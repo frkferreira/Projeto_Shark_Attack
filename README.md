@@ -9,8 +9,9 @@ Através dos anos:
 E dessa forma, mergulhar em questões como:
 No ano que mais ocorreram ataques:
 - qual país teve registrou mais ocorrências de ataques;
-- qual a espécie que mais atacou; e
-- qual a porcentagem de homens e mulheres atacados.
+- qual a espécie que mais atacou;
+- qual a porcentagem de homens e mulheres atacados; e
+- qual a porcentagem de fatalidade.
 
 
 ## Início e Pré-requisitos
