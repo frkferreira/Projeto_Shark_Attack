@@ -19,10 +19,10 @@ No ano que mais ocorreram ataques:
 Importando e visualizando o dataframe.
 Para essa análise, foi necessário a instalação das seguintes bibliotecas:
 
-- import pandas as pd
-- import numpy as np
-- import re
-- import os
+- pandas
+- numpy
+- re
+- os
 
 ## Tarefas executadas no projeto:
 
@@ -37,12 +37,17 @@ Para essa análise, foi necessário a instalação das seguintes bibliotecas:
 3) Análise dos dados
    A análise se baseou em responder perguntas amplas, tais como:
      - Entre 1543 à 2015, qual o ano foi registrado mais ataques.
+       - 2015, com 143 
 
    Com essa pergunta respondida, foi possível mergulhar em perguntas menos amplas:
      - qual país registrou mais ocorrências de ataques;
+       - USA, com 73 ataques registrados
      - qual a espécie que mais atacou;
+       - White Shark, com 26 ataques
      - qual a porcentagem de homens e mulheres atacados; e
+       - O homem recebeu mais ataques que mulheres: 78% contra 19%
      - qual a porcentagem de fatalidade.
+	 - apenas 6.29% das pessoas atacadas vieram a óbito
 
  
 
